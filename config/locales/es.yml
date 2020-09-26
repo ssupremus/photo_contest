@@ -4,4 +4,13 @@ es:
     home: Casa
     photos: Fotos
     about: ¿Quiénes somos?
-    sign_in: Inicia sesión
+    sign_in: Iniciar sesión
+  login_form:
+    enter_email: Ingrese correo electrónico
+    password: Contraseña
+
+  activerecord:
+    attributes:
+      user:
+        email: Correo
+        password: Contraseña

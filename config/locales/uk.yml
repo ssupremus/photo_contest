@@ -5,3 +5,12 @@ uk:
     photos: Світлини
     about: Про нас
     sign_in: Увійти
+  login_form:
+    enter_email: Введіть адресу електронної пошти
+    password: Пароль
+
+  activerecord:
+    attributes:
+      user:
+        email: Електронна пошта
+        password: Пароль

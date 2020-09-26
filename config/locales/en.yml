@@ -5,3 +5,12 @@ en:
     photos: Photos
     about: About
     sign_in: Sign in
+  login_form:
+    enter_email: Enter email
+    password: Password
+
+  activerecord:
+    attributes:
+      user:
+        email: Email
+        password: Password

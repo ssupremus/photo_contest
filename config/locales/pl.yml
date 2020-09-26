@@ -5,3 +5,12 @@ pl:
     photos: Zdjęcia
     about: O nas
     sign_in: Zaloguj się
+  login_form:
+    enter_email: Wprowadź e-mail
+    password: Hasło
+
+  activerecord:
+    attributes:
+      user:
+        email: Email
+        password: Hasło
